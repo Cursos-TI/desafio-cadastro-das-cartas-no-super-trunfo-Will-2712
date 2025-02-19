@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-//Criei o arquivo char para colocar a informação"carta" essa vai ser a primeira informação e identificação de qual é a carta de n1.
+//Criei o arquivo "char" para colocar a informação"carta" essa vai ser a primeira informação e identificação de qual é a carta de n1.
     char carta = '1';
 //AQUI COMECEIA USAR ARRAYS
     char estado [3] = "SP";
